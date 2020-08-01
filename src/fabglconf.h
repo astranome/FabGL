@@ -243,6 +243,12 @@
 /** Modeline for TFT 240x320 */
 #define TFT_240x320 "\"TFT_240x320\" 240 320"
 
+/** Modeline for TFT 240x240 */
+#define TFT_240x240 "\"TFT_240x240\" 240 240"
+
+/** Modeline for TFT 128x160 */
+#define TFT_128x160 "\"TFT_128x160\" 128 160"
+
 
 // Thanks to Paul Rickards (http://biosrhythm.com)
 
